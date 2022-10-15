@@ -2,9 +2,9 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Lê Trí Khoa - 20521466]
+- Member: [Nguyễn Hữu Thiên - 20521951]
+- Member: [Lâm Lê Phúc Huy - 20521388]
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
