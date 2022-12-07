@@ -10,5 +10,5 @@ Participants:
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) 
 
-UI / UX prototype: [here]([https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1](https://www.figma.com/file/YcCl0B32pICxjI1EjZZCez/CNPM-G3?node-id=136%3A106&t=4rapKa9Cf7nxvvIC-1)) 
+UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1](https://www.figma.com/file/YcCl0B32pICxjI1EjZZCez/CNPM-G3?node-id=136%3A106&t=4rapKa9Cf7nxvvIC-1) 
 
